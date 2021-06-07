@@ -1,0 +1,32 @@
+#icon {
+    height:50px;
+    width:50px;
+}
+body{
+    text-align:center;
+}
+marquee{
+    background-color:aquamarine;
+}
+#video{
+    width:700px;
+    height:700px;
+}
+#principle{
+    width:200px;
+    border-radius:360px;
+    margin-left:300px;
+}
+.my_nav_bar {
+    position:sticky;
+    top:0;
+    z-index:9999;
+    text-align:center;
+}
+html{
+ scroll-behavior:smooth;
+}
+#title{
+    color:azure;
+    font-size:30px;
+}
